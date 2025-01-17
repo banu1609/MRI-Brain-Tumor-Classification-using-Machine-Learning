@@ -1,1 +1,1 @@
-# MRI-Brain-Tumor-Classification-using-Machine-Learning
+# MRI Brain Tumor Classification using Machine Learning
